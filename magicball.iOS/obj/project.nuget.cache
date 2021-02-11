@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MX3p98G0tzQGL3gVHb3FMlusz/A2tL502A//7/whBlHz4i+HKHFPJYA+6/k01yPZ2qR3Y8N2EKPH7WRtpo4gXw==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro15/Projects/magicball/magicball.iOS/magicball.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro15/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/macbookpro15/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
