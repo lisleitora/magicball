@@ -133,4 +133,7 @@
       <Name>magicball</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bola.png" />
+  </ItemGroup>
 </Project>
