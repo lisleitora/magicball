@@ -4,12 +4,19 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
-    <Grid RowDefinitions="*,80">
-        <Image Source="bola.png" />
+    <Grid x:Name="_backgroundGrid " RowDefinitions="*,80">
+        <Image
+            x:Name="_ballImage"
+            Margin="20"
+            Source="bola.png" />
         <Label
+            x:Name="_answerLabel"
+            Margin="110,0,100,0"
+            HorizontalOptions="Center"
             HorizontalTextAlignment="Center"
-            Text="sim, é uma boa ideia"
+            VerticalOptions="Center"
             VerticalTextAlignment="Center" />
+        <Button Clicked="Button_Clicked" />
         <Label
             Grid.Row="1"
             HorizontalTextAlignment="Center"
