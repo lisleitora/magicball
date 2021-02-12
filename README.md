@@ -1,2 +1,2 @@
 # magicball
-<img src = "magicball/bm.png"/>
+<img width = "200" src = "magicball/bm.png"/>
