@@ -45,11 +45,6 @@
 /Users/macbookpro15/Projects/magicball/magicball.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/macbookpro15/Projects/magicball/magicball.iOS/bin/iPhoneSimulator/Debug/magicball.pdb
 /Users/macbookpro15/Projects/magicball/magicball.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csprojAssemblyReference.cache
-/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csproj.CoreCompileInputs.cache
-/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csproj.CopyComplete
-/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.exe
-/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.pdb
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/actool/_PartialAppManifest.items
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/actool/_BundleResourceWithLogicalName.items
@@ -57,3 +52,8 @@
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/optimized/bola.png
 /Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.4/optimized/
+/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csprojAssemblyReference.cache
+/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csproj.CoreCompileInputs.cache
+/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.csproj.CopyComplete
+/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.exe
+/Users/macbookpro15/Projects/magicball/magicball.iOS/obj/iPhoneSimulator/Debug/magicball.iOS.pdb

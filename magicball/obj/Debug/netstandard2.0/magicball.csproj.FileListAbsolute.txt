@@ -2,7 +2,6 @@
 /Users/macbookpro15/Projects/magicball/magicball/bin/Debug/netstandard2.0/magicball.dll
 /Users/macbookpro15/Projects/magicball/magicball/bin/Debug/netstandard2.0/ref/magicball.dll
 /Users/macbookpro15/Projects/magicball/magicball/bin/Debug/netstandard2.0/magicball.pdb
-/Users/macbookpro15/Projects/magicball/magicball/obj/Debug/netstandard2.0/magicball.csprojAssemblyReference.cache
 /Users/macbookpro15/Projects/magicball/magicball/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/macbookpro15/Projects/magicball/magicball/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/macbookpro15/Projects/magicball/magicball/obj/Debug/netstandard2.0/magicball.AssemblyInfoInputs.cache

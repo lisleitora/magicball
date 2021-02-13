@@ -10,6 +10,7 @@ namespace magicball
 {
     public partial class MainPage : ContentPage
     {
+        bool _wait;
         List<string> _answers;
         public MainPage()
         {
@@ -23,9 +24,21 @@ namespace magicball
 
         }
 
-        void Button_Clicked(System.Object sender, System.EventArgs e)
+       async void Button_Clicked(System.Object sender, System.EventArgs e)
         {
+            if (_wait)
+            {
+                return;
+            }
+            _wait = true;
+            _answerLabel.Text = "";
+            var f = 200;
+        await _ballImage.TranslateTo(f + 200, f + 200, 100, Easing.Linear);
+            await _ballImage.TranslateTo(-f, -f, 600, Easing.Linear);
+            await _ballImage.TranslateTo(0, 0, 600, Easing.SpringOut);
+
             int r = new Random().Next(0, 5);
             _answerLabel.Text = _answers[r];
+            _wait = false;
         }
     }}
