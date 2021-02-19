@@ -1,19 +1,14 @@
-﻿<Properties StartupConfiguration="{879BAB1C-D949-422C-8806-9D5CE7C75650}|Default">
-  <MonoDevelop.Ide.ItemProperties.magicball.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A53E22ED-19F9-4B84-94CA-C070AC639383" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="magicball/MainPage.xaml">
-    <Files>
-      <File FileName="magicball/MainPage.xaml.cs" Line="13" Column="14" />
-      <File FileName="magicball/MainPage.xaml" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{2BED913F-3857-4632-8910-21EBDBC2F360}|Default">
+  <MonoDevelop.Ide.ItemProperties.magicball.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.0bf5917d1cc1b401db568ffbdf7178050bfe29ef" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="magicball" expanded="True">
             <Node name="magicball" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="magicball.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -21,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.magicball.Android PreferredExecutionTarget="Android.nexus_5x_api_28" />
+  <MonoDevelop.Ide.ItemProperties.magicball.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>
