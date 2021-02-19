@@ -4,7 +4,7 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
-    <Grid x:Name="_backgroundGrid " RowDefinitions="*,80">
+    <Grid x:Name="_backgroundGrid" RowDefinitions="*,80">
         <Image
             x:Name="_ballImage"
             Margin="20"
@@ -14,9 +14,14 @@
             Margin="110,0,100,0"
             HorizontalOptions="Center"
             HorizontalTextAlignment="Center"
+            Text="shake it"
             VerticalOptions="Center"
             VerticalTextAlignment="Center" />
-        <Button Clicked="Button_Clicked" />
+        <Button
+            x:Name="_buttonButton"
+            Clicked="Button_Clicked"
+            IsEnabled="False"
+            Opacity="0" />
         <Label
             Grid.Row="1"
             HorizontalTextAlignment="Center"

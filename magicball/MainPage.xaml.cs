@@ -21,7 +21,6 @@ namespace magicball
             _answers.Add("talvez");
             _answers.Add("é claro");
             _answers.Add("claro que não");
-
         }
 
        async void Button_Clicked(System.Object sender, System.EventArgs e)

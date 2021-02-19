@@ -6,9 +6,7 @@
         <State name="__root__">
           <Node name="magicball" expanded="True">
             <Node name="magicball" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
